@@ -1,0 +1,15 @@
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.exe
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.deps.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\refint\EjercicioAbstraccion.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio-Abstracci-n\EjercicioAbstraccion\obj\Debug\net8.0\ref\EjercicioAbstraccion.dll
